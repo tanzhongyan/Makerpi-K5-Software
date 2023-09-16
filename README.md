@@ -1,4 +1,4 @@
-# Makerpi K5 Software
+# Makerpi K5 Plus Software
 
 ## Description
 
